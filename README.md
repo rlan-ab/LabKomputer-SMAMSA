@@ -1,1 +1,2 @@
-# LabKomputer-SMAMSA
+# Perpustakaan-SMAMSA
+Perpustakaan SMAMSA
